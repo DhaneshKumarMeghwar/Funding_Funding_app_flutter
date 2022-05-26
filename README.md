@@ -1,16 +1,5 @@
-# funding_for_charity
+# Flutter Crowdfinding/Charity App Ui
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/31367048/166910324-d631c87e-870b-410b-bf9c-5c4b085454fc.mov
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
